@@ -1,16 +1,29 @@
-# marveldetails
+# Marvel Details
 
-A new Flutter project.
+Um aplicativo Flutter que permite explorar personagens do universo Marvel. O app utiliza a API da Marvel para buscar informações sobre os personagens, incluindo suas descrições e imagens.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Lista de Personagens**: Navegue por uma lista de personagens da Marvel.
+- **Pesquisa**: Pesquise personagens pelo nome.
+- **Temas**: Alterna entre tema claro e escuro.
+- **Últimas Visitas**: Veja os personagens que você visitou recentemente.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework para construção de interfaces de usuário.
+- **Dart**: Linguagem de programação usada pelo Flutter.
+- **API Marvel**: Para buscar dados dos personagens.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina.
+- Uma chave de API da Marvel. Para obter uma, siga as instruções na [documentação da API da Marvel](https://developer.marvel.com/).
+
+### Configuração
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/JardellVic/marveldetails.git
